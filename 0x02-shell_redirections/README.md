@@ -1,2 +1,2 @@
 #!/bin/bash
-shell redirectories and filters
+shell redirections and filters
